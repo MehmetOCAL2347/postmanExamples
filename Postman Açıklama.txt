@@ -1,0 +1,4 @@
+Yeni bir repo oluşturuldu
+https://github.com/MehmetOCAL2347/postmanExamples.git
+Yukarıdaki linkten ilgili repoya ulaşılabilir
+Repo public olarak oluşturuldu.
